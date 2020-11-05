@@ -1,4 +1,2 @@
 ## random codes
-Some random codes solving simple algorithmic problems are here.
-
-Nothing much to see here tbh.
+Some random codes solving simple algorithmic problems are here.<br> Nothing much to see here tbh.
